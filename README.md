@@ -2,7 +2,39 @@
 
 ## Client Background
 Founded in 2018, Elist Electronics is an online retailer that sells popular electronics worldwide via its website and mobile app. The business relies on digital marketing channels (email, SEO, affiliates) to grow sales, especially for Apple, Samsung, and ThinkPad products. This analysis uses Elist’s transactional and customer data to evaluate growth, product performance, loyalty program impact, and refund behavior.
-In this project, I focus on total revenue, orders, average order value (AOV), refund rate, and loyalty-driven sales as the key measures of Elist’s commercial performance.
+
+
+Reporting to the Head of Operations, this analysis evaluates TechSphere’s performance from 2019–2022 and provides actionable insights to streamline operations and improve commercial results. Insights and recommendations are provided on the following key areas:
+Insights and recommendations are provided on the following key areas:
+
+  * Sales Trends: Revenue, orders, and AOV over time by region.
+
+  * Product Performance: Sales and return behavior by product line.
+
+  * Loyalty Program: Influence on retention and customer spend.
+
+  * Regional Comparisons: Relative performance of each geographic region.
+
+
+
+
+An interactive PowerBI dashboard can be downloaded here.
+
+The Entity Relationship Diagram can be found here.
+
+The data cleaning change log can be found here.
+
+The SQL queries used for data quality checks, cleaning, organizing, and preparing the data for the dashboard can be found here.
+
+Targeted SQL queries regarding various business questions can be found here.
+
+
+
+# Data Structure & ERD (Entity Relationship Diagram)
+Body Text
+
+<img width="575" height="1114" alt="image" src="https://github.com/user-attachments/assets/c813813e-7a99-4b66-9717-d0c188c3deec" />
+
 
 ## North Star Metrics
 Total revenue and total orders (2019–2022)
@@ -12,13 +44,6 @@ Average order value (AOV)
 Refund rate (overall and Apple vs non-Apple)
 
 Loyalty program share of revenue
-
-
-
-# Data Structure & ERD (Entity Relationship Diagram)
-Body Text
-
-<img width="575" height="1114" alt="image" src="https://github.com/user-attachments/assets/c813813e-7a99-4b66-9717-d0c188c3deec" />
 
 # Executive Summary
 Body Text
