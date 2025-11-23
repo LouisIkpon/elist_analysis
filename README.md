@@ -22,6 +22,8 @@ This report analyzes Elist’s transactional, customer, and operational data fro
 
 
 
+
+
 An interactive PowerBI dashboard can be downloaded here.
 
 Targeted SQL queries regarding various business questions can be found here.
