@@ -9,7 +9,7 @@ This report analyzes Elist’s transactional, customer, and operational data fro
 ## Northstar Metrics
 
 
-  * **Sales Trends: **Evaluation of historical sales performance, focusing on revenue, number of orders, average order value (AOV), and refund rates by year and region.  
+  * **Sales Trends:** Evaluation of historical sales performance, focusing on revenue, number of orders, average order value (AOV), and refund rates by year and region.  
 
   * **Product Performance:** Analysis of major product lines to understand their contribution to sales, profitability, and returns, with an emphasis on Apple, Samsung, and ThinkPad products.
 
