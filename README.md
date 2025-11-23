@@ -7,6 +7,10 @@ Founded in 2018, Elist Electronics is an online retailer that sells popular elec
 Reporting to the Head of Operations, this analysis evaluates TechSphere’s performance from 2019–2022 and provides actionable insights to streamline operations and improve commercial results. Insights and recommendations are provided on the following key areas:
 Insights and recommendations are provided on the following key areas:
 
+
+## Northstar Metrics
+
+
   * Sales Trends: Revenue, orders, and AOV over time by region.
 
   * Product Performance: Sales and return behavior by product line.
@@ -35,15 +39,6 @@ Body Text
 
 <img width="575" height="1114" alt="image" src="https://github.com/user-attachments/assets/c813813e-7a99-4b66-9717-d0c188c3deec" />
 
-
-## North Star Metrics
-Total revenue and total orders (2019–2022)
-
-Average order value (AOV)
-
-Refund rate (overall and Apple vs non-Apple)
-
-Loyalty program share of revenue
 
 # Executive Summary
 Body Text
