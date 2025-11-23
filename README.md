@@ -5,7 +5,6 @@ Founded in 2018, Elist Electronics is an online retailer that sells popular cons
 
 This report analyzes Elist’s transactional, customer, and operational data from 2019–2022 to evaluate growth, product performance, loyalty program effectiveness, and refund behavior. Using previously underutilized data on sales, marketing, operations, products, and the loyalty program, the analysis generates actionable insights to strengthen Elist’s commercial performance.
 
-Prepared for the Head of Operations and cross-functional stakeholders the report focuses on four key areas. 
 
 
 
