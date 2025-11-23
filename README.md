@@ -3,7 +3,19 @@
 ## Client Background
 Founded in 2018, Elist Electronics is an online retailer that sells popular consumer electronics worldwide via its website and mobile app. The company relies on digital marketing channels (email, SEO, and affiliate partnerships) to drive sales, with especially strong performance from Apple, Samsung, and ThinkPad products.
 
-This report analyzes Elist’s transactional, customer, and operational data from 2019–2022 to evaluate growth, product performance, loyalty program effectiveness, and refund behavior. Using previously underutilized data on sales, marketing, operations, products, and the loyalty program, the analysis generates actionable insights to strengthen Elist’s commercial performance.
+This report analyzes Elist’s transactional, customer, and operational data from 2019–2022 to evaluate growth, product performance, loyalty program effectiveness, and refund behavior. Using previously underutilized data on sales, marketing, operations, products, and the loyalty program, the analysis generates actionable insights to strengthen Elist’s commercial performance. 
+
+
+## Northstar Metrics
+
+
+  * Sales Trends: Evaluation of historical sales performance, focusing on revenue, number of orders, average order value (AOV), and refund rates by year and region.  
+
+  * Product Performance: Analysis of major product lines to understand their contribution to sales, profitability, and returns, with an emphasis on Apple, Samsung, and ThinkPad products.
+
+  * Loyalty Program: Assessment of how the loyalty program influences customer retention, spending behavior, and overall sales, with recommendations to increase engagement.
+
+  * Regional Comparisons:  Comparison of revenue, orders, and AOV across regions to identify high-performing markets and areas with growth or optimization opportunities.
 
 
 
@@ -12,19 +24,6 @@ An interactive PowerBI dashboard can be downloaded here.
 
 
 Targeted SQL queries regarding various business questions can be found here.
-
-
-
-## Northstar Metrics
-
-
-  * Sales Trends: Revenue, orders, and AOV over time by region.
-
-  * Product Performance: Sales and return behavior by product line.
-
-  * Loyalty Program: Influence on retention and customer spend.
-
-  * Regional Comparisons: Relative performance of each geographic region.
 
 
 
