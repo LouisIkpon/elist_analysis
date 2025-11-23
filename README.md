@@ -24,20 +24,23 @@ Insights and recommendations are provided on the following key areas:
 
 An interactive PowerBI dashboard can be downloaded here.
 
-The Entity Relationship Diagram can be found here.
-
-The data cleaning change log can be found here.
-
-The SQL queries used for data quality checks, cleaning, organizing, and preparing the data for the dashboard can be found here.
-
 Targeted SQL queries regarding various business questions can be found here.
 
 
 
 # Data Structure & ERD (Entity Relationship Diagram)
-Body Text
+
+
+Elist's database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records.
+
 
 <img width="575" height="1114" alt="image" src="https://github.com/user-attachments/assets/c813813e-7a99-4b66-9717-d0c188c3deec" />
+
+
+
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets, the data cleaning change log can be found here.
+
+The SQL queries used for data quality checks, cleaning, organizing, and preparing the data for the dashboard can be found here.
 
 
 # Executive Summary
