@@ -9,13 +9,13 @@ This report analyzes Elist’s transactional, customer, and operational data fro
 ## Northstar Metrics
 
 
-  * Sales Trends: Evaluation of historical sales performance, focusing on revenue, number of orders, average order value (AOV), and refund rates by year and region.  
+  * **Sales Trends: **Evaluation of historical sales performance, focusing on revenue, number of orders, average order value (AOV), and refund rates by year and region.  
 
-  * Product Performance: Analysis of major product lines to understand their contribution to sales, profitability, and returns, with an emphasis on Apple, Samsung, and ThinkPad products.
+  * **Product Performance:** Analysis of major product lines to understand their contribution to sales, profitability, and returns, with an emphasis on Apple, Samsung, and ThinkPad products.
 
-  * Loyalty Program: Assessment of how the loyalty program influences customer retention, spending behavior, and overall sales, with recommendations to increase engagement.
+  * **Loyalty Program:** Assessment of how the loyalty program influences customer retention, spending behavior, and overall sales, with recommendations to increase engagement.
 
-  * Regional Comparisons:  Comparison of revenue, orders, and AOV across regions to identify high-performing markets and areas with growth or optimization opportunities.
+  * **Regional Comparisons:**  Comparison of revenue, orders, and AOV across regions to identify high-performing markets and areas with growth or optimization opportunities.
 
 
 
