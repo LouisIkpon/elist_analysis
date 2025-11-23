@@ -7,6 +7,13 @@ This report analyzes Elist’s transactional, customer, and operational data fro
 
 
 
+An interactive PowerBI dashboard can be downloaded here.
+
+
+
+Targeted SQL queries regarding various business questions can be found here.
+
+
 
 ## Northstar Metrics
 
@@ -18,15 +25,6 @@ This report analyzes Elist’s transactional, customer, and operational data fro
   * Loyalty Program: Influence on retention and customer spend.
 
   * Regional Comparisons: Relative performance of each geographic region.
-
-
-
-
-
-
-An interactive PowerBI dashboard can be downloaded here.
-
-Targeted SQL queries regarding various business questions can be found here.
 
 
 
