@@ -1,14 +1,12 @@
 # Elist Ecommerce Performance Report
 
 ## Client Background
-Founded in 2018, Elist Electronics is an online retailer that sells popular electronics worldwide via its website and mobile app. The business relies on digital marketing channels (email, SEO, affiliates) to grow sales, especially for Apple, Samsung, and ThinkPad products. This analysis uses Elist’s transactional and customer data to evaluate growth, product performance, loyalty program impact, and refund behavior.
+Founded in 2018, Elist Electronics is an online retailer that sells popular consumer electronics worldwide via its website and mobile app. The company relies on digital marketing channels (email, SEO, and affiliate partnerships) to drive sales, with especially strong performance from Apple, Samsung, and ThinkPad products.
 
+This report analyzes Elist’s transactional, customer, and operational data from 2019–2022 to evaluate growth, product performance, loyalty program effectiveness, and refund behavior. Using previously underutilized data on sales, marketing, operations, products, and the loyalty program, the analysis generates actionable insights to strengthen Elist’s commercial performance.
 
-The company holds extensive, but largely underutilized, data on sales, marketing, operations, product portfolio, and its loyalty program. This project turns that data into actionable insights to strengthen Elist’s commercial performance.
+Prepared for the Head of Operations and cross-functional stakeholders the report focuses on four key areas. 
 
-
-Reporting to the Head of Operations, this analysis evaluates TechSphere’s performance from 2019–2022 and provides actionable insights to streamline operations and improve commercial results. Insights and recommendations are provided on the following key areas:
-Insights and recommendations are provided on the following key areas:
 
 
 ## Northstar Metrics
