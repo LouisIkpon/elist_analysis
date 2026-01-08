@@ -43,10 +43,21 @@ The SQL queries used for data quality checks, cleaning, organizing, and preparin
 
 
 # Executive Summary
-Body Text
+
+Across 2019–2022, Elist delivered $28.1M in revenue from 108K orders (avg ~$7.0M and ~27K orders/year, AOV ~$254). Revenue peaked in 2020 and dropped to $4.96M in 2022 (~51% below peak), explained by fewer orders and lower AOV. This decline may reflect post-pandemic demand normalization.
+
+
+
+
+
 
 # Deep-Dive Insights
-Overview of Findings
+
+
+
+
+
+
 
 ## Sales Trends
 Body Text
