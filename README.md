@@ -44,7 +44,7 @@ The SQL queries used for data quality checks, cleaning, organizing, and preparin
 
 # Executive Summary
 
-Across 2019–2022, Elist delivered $28.1M in revenue from 108K orders (avg ~$7.0M and ~27K orders/year, AOV ~$254). Revenue peaked in 2020 and dropped to $4.96M in 2022 (~51% below peak), explained by fewer orders and lower AOV. This decline may reflect post-pandemic demand normalization.
+Across 2019–2022, Elist delivered $28.1M in revenue from 108K orders (avg ~$7.0M and ~27K orders/year, AOV ~$254). Revenue peaked in 2020 and dropped to $4.96M in 2022 (~51% below peak), explained by fewer orders and lower AOV. This decline may reflect post-pandemic demand normalization Tthe following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
 
 
 
@@ -60,7 +60,32 @@ Across 2019–2022, Elist delivered $28.1M in revenue from 108K orders (avg ~$7.
 
 
 ## Sales Trends
-Body Text
+
+* 2020 was Elist’s breakout year, with revenue up +163% YoY, driven by both higher demand (orders +101%) and larger baskets (AOV +31%) versus 2019.
+  
+* In 2021, order volume continued to grow (+6%), but a -15% decline in AOV pulled revenue down ~10%, indicating customers were purchasing but spending less per order.
+
+* The downturn accelerated in 2022 as results weakened across the board—revenue fell ~46% YoY (about -$4.17M vs. 2021), driven by both lower order volume (-40%) and lower AOV (-10%).
+
+* Sales also showed consistent seasonality, with Q4 strength and December as the peak month across 2019–2022 (~$2.86M, ~10% of total sales). By contrast, February was consistently the weakest month (~$1.91M, ~6.8% of sales), suggesting a repeatable seasonal low.
+
+
+<img width="906" height="366" alt="image" src="https://github.com/user-attachments/assets/bd3077f4-84bf-4129-a77e-fb1942d9819e" />
+
+
+<img width="597" height="307" alt="image" src="https://github.com/user-attachments/assets/3fdeb561-fda4-4562-9e86-68b9946c709a" />
+
+
+
+## Seasonality and Geographic Trends:
+
+* Revenue is geographically concentrated in North America, which generated $14.55M (~52%) of total sales, followed by EMEA ($8.22M, ~29%) and APAC ($3.65M, ~13%), while LATAM contributed the smallest share ($1.67M, ~6%). Because North America represents over half of total revenue, performance changes in NA have an outsized impact on overall results.
+
+* APAC stands out with the highest AOV (~$279), indicating fewer but higher-value purchases and a more premium demand profile relative to other regions. “Unknown” geography is immaterial (<0.1% of sales) and does not materially affect the regional story.
+
+  <img width="493" height="161" alt="image" src="https://github.com/user-attachments/assets/a416caf7-5982-44a9-bf6e-15b9b8142c64" />
+
+
 
 ## Product Trends
 Body Text
