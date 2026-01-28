@@ -33,7 +33,10 @@ Targeted SQL queries regarding various business questions can be found here.
 Elist's database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records.
 
 
- <img width="575" height="1114" alt="image" src="https://github.com/user-attachments/assets/c813813e-7a99-4b66-9717-d0c188c3deec" />
+<p align="center">
+  <img src="PATH_OR_URL_TO_IMAGE" alt="Monthly sales table" width="700">
+</p>
+
 
 
 
@@ -70,7 +73,9 @@ Across 2019–2022, Elist delivered $28.1M in revenue from 108K orders (avg ~$7.
 * Sales also showed consistent seasonality, with Q4 strength and December as the peak month across 2019–2022 (~$2.86M, ~10% of total sales). By contrast, February was consistently the weakest month (~$1.91M, ~6.8% of sales), suggesting a repeatable seasonal low.
   
 
- <img width="598" height="305" alt="image" src="https://github.com/user-attachments/assets/5bf7b66b-79be-4f20-bf8b-20a2d7f08067" />
+ <p align="center">
+   <img width="598" height="305" alt="image" src="https://github.com/user-attachments/assets/5bf7b66b-79be-4f20-bf8b-20a2d7f08067" />
+   </p>
 
 ## Seasonality and Geographic Trends:
 
@@ -80,7 +85,9 @@ Across 2019–2022, Elist delivered $28.1M in revenue from 108K orders (avg ~$7.
 
 * Sales also showed consistent seasonality, with Q4 strength and December as the peak month across 2019–2022 (~$2.86M, ~10% of total sales). By contrast, February was consistently the weakest month (~$1.91M, ~6.8% of sales), suggesting a repeatable seasonal low.
 
+<p align="center">
   <img width="493" height="161" alt="image" src="https://github.com/user-attachments/assets/a416caf7-5982-44a9-bf6e-15b9b8142c64" />
+  </p>
 
  
  <img width="883" height="132" alt="image" src="https://github.com/user-attachments/assets/fc9eacbb-e022-4b5b-aa57-d57676b233c2" />
