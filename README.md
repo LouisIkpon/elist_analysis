@@ -1,5 +1,23 @@
 # Elist Ecommerce Performance Report
 
+**## Project Overview
+**Goal:** Evaluate Elist’s historical performance and identify drivers of growth/decline across **Sales, Product Mix, Loyalty, and Region**.  
+**Dataset:** Orders + Customers + Order Status + Geo Lookup (2019–2022).  
+**Deliverables:** Executive summary, KPI deep dives, and reproducible SQL queries + visuals.**
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Client Background](#client-background)
+- [North Star Metrics](#north-star-metrics)
+- [Data Structure & ERD](#data-structure--erd-entity-relationship-diagram)
+- [Executive Summary](#executive-summary)
+- [Deep-Dive Insights](#deep-dive-insights)
+  - [Sales Trends](#sales-trends)
+  - [Seasonality and Geographic Trends](#seasonality-and-geographic-trends)
+  - [Product Trends](#product-trends)
+- [Recommendations](#recommendations)
+
 ## Client Background
 Founded in 2018, Elist Electronics is an online retailer that sells popular consumer electronics worldwide via its website and mobile app. The company relies on digital marketing channels (email, SEO, and affiliate partnerships) to drive sales, with especially strong performance from Apple, Samsung, and ThinkPad products.
 
