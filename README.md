@@ -1,6 +1,6 @@
 # Elist Ecommerce Performance Report
 
-**## Project Overview
+## Project Overview
 **Goal:** Evaluate Elist’s historical performance and identify drivers of growth/decline across **Sales, Product Mix, Loyalty, and Region**.  
 **Dataset:** Orders + Customers + Order Status + Geo Lookup (2019–2022).  
 **Deliverables:** Executive summary, KPI deep dives, and reproducible SQL queries + visuals.**
