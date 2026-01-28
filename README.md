@@ -69,11 +69,7 @@ Across 2019–2022, Elist delivered $28.1M in revenue from 108K orders (avg ~$7.
 
 * Sales also showed consistent seasonality, with Q4 strength and December as the peak month across 2019–2022 (~$2.86M, ~10% of total sales). By contrast, February was consistently the weakest month (~$1.91M, ~6.8% of sales), suggesting a repeatable seasonal low.
 
- <img width="906" height="366" alt="image" src="https://github.com/user-attachments/assets/bd3077f4-84bf-4129-a77e-fb1942d9819e" />
-
-<img width="597" height="307" alt="image" src="https://github.com/user-attachments/assets/3fdeb561-fda4-4562-9e86-68b9946c709a" />
-
-
+ <img width="598" height="305" alt="image" src="https://github.com/user-attachments/assets/5bf7b66b-79be-4f20-bf8b-20a2d7f08067" />
 
 ## Seasonality and Geographic Trends:
 
