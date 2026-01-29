@@ -119,12 +119,18 @@ Across 2019–2022, Elist delivered $28.1M in revenue from 108K orders (avg ~$7.
 
 
 ## Loyalty Program
-Body Text
+* Across 2019–2022, loyalty customers consistently produced the majority of volume and revenue, with totals showing ~62,430 loyalty orders vs. ~45,693 non-loyalty orders and ~$17.14M loyalty sales vs. ~$10.97M non-loyalty sales. Non-loyalty customers tended to have higher AOV overall (~$275) compared to loyalty (~$240), meaning loyalty drives scale (repeat volume) while non-loyalty drives slightly larger baskets per order.
+  
+* The gap was most pronounced in 2020, when loyalty sales jumped to ~$7.19M while non-loyalty reached ~$2.97M, aligning with the breakout year’s demand surge. By 2022, both segments declined, but loyalty still remained the larger driver of total orders, so any retention/engagement improvements inside loyalty have an outsized impact on topline stability.
 
 ## Refund Rates
-Body Text
+* Refund performance varies a lot by product, so we track refund rate (%) and refund count (#) together to separate “quality risk” from “volume risk.” The highest refund rates come from higher-ticket laptops—ThinkPad Laptop ~11.7% (342 refunds) and MacBook Air Laptop ~11.4% (453 refunds)—which signals elevated return friction in premium categories. 
+
+* By contrast, Apple AirPods Headphones generate the largest refund volume (2,636 refunds) but at a lower refund rate (~5.45%), meaning small process improvements here can still move total refunds materially because the product sells at scale. At the overall level, refunds spiked in 2020 (~9.21%), improved in 2021 (~3.61%), and show 0.0% in 2022 in the order_status-based metric—this should be treated as a data coverage / tracking check rather than a true “no refunds” conclusion.
 
 ## Regional Comparisons
-Body Text
+* Regional results show consistent product demand patterns and broadly similar operational performance across markets. Apple AirPods Headphones are the #1 product in every region, with order volume led by NA (24,731), followed by EMEA (15,090), APAC (5,662), and LATAM (2,636)—so performance in this single product has a global impact.
+
+* On delivery performance (using the segment of 2022 website purchases + all mobile app purchases), average time-to-deliver is tightly clustered around ~7.5 days, with EMEA highest at ~7.53 days (APAC ~7.51, NA ~7.52, LATAM ~7.52), suggesting regional differences in average delivery speed are minimal in that slice. 
 
 # Recommendations
