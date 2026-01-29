@@ -111,7 +111,12 @@ Across 2019–2022, Elist delivered $28.1M in revenue from 108K orders (avg ~$7.
 
 
 ## Product Trends
-Body Text
+* Across 2019–2022, Elist’s sales were highly concentrated in a few SKUs: the 27in 4K gaming monitor generated $9.85M (35%), Apple Airpods Headphones produced $7.74M (28%), and Macbook Air Laptop added $6.30M (22%)—together driving ~85% of total revenue. Order volume skews differently: Airpods led with 48,402 orders, while the 27in monitor delivered fewer orders (23,408) but much higher monetization (AOV ~$421). 
+
+* Premium laptops show very high AOVs (Macbook Air ~$1,588, ThinkPad ~$1,100) but much lower order counts (~3,964 and ~2,916 respectively), meaning revenue comes from ticket size more than frequency. Lower-priced accessories (e.g., Samsung charging cable pack) generate meaningful order volume but limited revenue due to low AOV (~$20), so they’re better treated as attach-rate/retention plays than core revenue drivers.
+
+  <img width="718" height="301" alt="image" src="https://github.com/user-attachments/assets/ad843d7b-8abf-41b4-8062-201b1ad0ae92" />
+
 
 ## Loyalty Program
 Body Text
