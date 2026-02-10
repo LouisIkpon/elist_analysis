@@ -93,13 +93,10 @@ Across 2019–2022, Elist delivered $28.1M in revenue from 108K orders (avg ~$7.
  <img width="883" height="132" alt="image" src="https://github.com/user-attachments/assets/fc9eacbb-e022-4b5b-aa57-d57676b233c2" />
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/323ae74e-f233-4e56-b7c3-ef8571670430" width="300">
+  <img src="https://github.com/user-attachments/assets/2db99718-7649-4fac-9eaa-6dd65dd5385a" width="300">
   <img src="https://github.com/user-attachments/assets/4c4fa254-5db8-4aed-9ae0-9e2d2180e7eb" width="300">
   <img src="https://github.com/user-attachments/assets/fc41dd29-fdea-4178-b178-176ac0cb56c6" width="300">
 </p>
-
-
-
 
 
 
