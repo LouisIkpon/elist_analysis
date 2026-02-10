@@ -90,13 +90,13 @@ Across 2019–2022, Elist delivered $28.1M in revenue from 108K orders (avg ~$7.
 * The downturn accelerated in 2022 as results weakened across the board—revenue fell ~46% YoY (about -$4.17M vs. 2021), driven by both lower order volume (-40%) and lower AOV (-10%).
 
  
-<img width="883" height="132" alt="image" src="https://github.com/user-attachments/assets/fc9eacbb-e022-4b5b-aa57-d57676b233c2" />
+ <img width="883" height="132" alt="image" src="https://github.com/user-attachments/assets/fc9eacbb-e022-4b5b-aa57-d57676b233c2" />
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b0e84e5f-825a-4a7a-9b62-29f2c5a4059c" width="300">
-  <img src="https://github.com/user-attachments/assets/753acdf9-a1f8-452c-af8e-b7c79b790306" width="300">
-  <img src="https://github.com/user-attachments/assets/fc41dd29-fdea-4178-b178-176ac0cb56c6" width="300">
-</p>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/a18038ba-be3c-4e1a-9cba-88ca81509ece" width="300">
+    <img src="https://github.com/user-attachments/assets/753acdf9-a1f8-452c-af8e-b7c79b790306" width="300">
+    <img src="https://github.com/user-attachments/assets/fc41dd29-fdea-4178-b178-176ac0cb56c6" width="300">
+  </p>
 
 
 
