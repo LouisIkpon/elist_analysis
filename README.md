@@ -139,6 +139,9 @@ Across 2019–2022, Elist delivered $28.1M in revenue from 108K orders (avg ~$7.
 
 <img width="960" height="322" alt="image" src="https://github.com/user-attachments/assets/bbe0bb8f-67e5-4b56-95a9-6170b67278f2" />
 
+<img width="1267" height="716" alt="image" src="https://github.com/user-attachments/assets/99703858-9dae-49d3-9c96-1d541cbedcef" />
+
+
 
 ## Loyalty Program
 * Across 2019–2022, loyalty customers consistently produced the majority of volume and revenue, with totals showing ~62,430 loyalty orders vs. ~45,693 non-loyalty orders and ~$17.14M loyalty sales vs. ~$10.97M non-loyalty sales. Non-loyalty customers tended to have higher AOV overall (~$275) compared to loyalty (~$240), meaning loyalty drives scale (repeat volume) while non-loyalty drives slightly larger baskets per order.
