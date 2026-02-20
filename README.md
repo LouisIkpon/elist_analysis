@@ -151,11 +151,18 @@ Across 2019–2022, Elist delivered $28.1M in revenue from 108K orders (avg ~$7.
 
 <img width="1162" height="474" alt="image" src="https://github.com/user-attachments/assets/d70bdd9f-a754-4e7a-b9fb-8e92d34923a1" />
 
+<img width="1292" height="329" alt="image" src="https://github.com/user-attachments/assets/bec60fd0-a6ee-4a35-af67-45cf9c66883c" />
+
+
 
 ## Refund Rates
 * Refund performance varies a lot by product, so we track refund rate (%) and refund count (#) together to separate “quality risk” from “volume risk.” The highest refund rates come from higher-ticket laptops—ThinkPad Laptop ~11.7% (342 refunds) and MacBook Air Laptop ~11.4% (453 refunds)—which signals elevated return friction in premium categories. 
 
 * By contrast, Apple AirPods Headphones generate the largest refund volume (2,636 refunds) but at a lower refund rate (~5.45%), meaning small process improvements here can still move total refunds materially because the product sells at scale. At the overall level, refunds spiked in 2020 (~9.21%), improved in 2021 (~3.61%), and show 0.0% in 2022 in the order_status-based metric—this should be treated as a data coverage / tracking check rather than a true “no refunds” conclusion.
+
+
+  <img width="1285" height="412" alt="image" src="https://github.com/user-attachments/assets/1669e0bc-5e50-47d8-8ec8-483009285a2e" />
+
 
 ## Regional Comparisons
 * Regional results show consistent product demand patterns and broadly similar operational performance across markets. Apple AirPods Headphones are the #1 product in every region, with order volume led by NA (24,731), followed by EMEA (15,090), APAC (5,662), and LATAM (2,636)—so performance in this single product has a global impact.
