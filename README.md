@@ -98,24 +98,13 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 * APAC stands out with the highest AOV (~$279), indicating fewer but higher-value purchases and a more premium demand profile relative to other regions. “Unknown” geography is immaterial (<0.1% of sales) and does not materially affect the regional story.
 
 
-
-<p align="center">
-  <img width="493" height="161" alt="image" src="https://github.com/user-attachments/assets/a416caf7-5982-44a9-bf6e-15b9b8142c64" />
-  </p>
-
-<img width="957" height="476" alt="image" src="https://github.com/user-attachments/assets/67443557-b778-4d66-91c8-d8269a56963f" />
-  
+<img width="961" height="410" alt="image" src="https://github.com/user-attachments/assets/219b0860-3d0f-41ec-890a-19ee2a6a1afe" />
 
 
 * Sales also showed consistent seasonality, with Q4 strength and December as the peak month across 2019–2022 ($2.86M, 10% of total sales). By contrast, February was consistently the weakest month ($1.91M, ~6.8% of sales), suggesting a repeatable seasonal low.
 
+<img width="961" height="322" alt="image" src="https://github.com/user-attachments/assets/e24e1c5a-528d-4c71-9021-4595d3f78b9d" />
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/09f58bb0-7908-4ad3-91f8-e7efe1b3b93b"
-       style="width:360px; height:220px; object-fit:cover;" />
-  <img src="https://github.com/user-attachments/assets/5bf7b66b-79be-4f20-bf8b-20a2d7f08067"
-       style="width:360px; height:220px; object-fit:cover;" />
-</p>
 
 ## Product Trends
 * Across 2019–2022, Elist’s sales were highly concentrated in a few SKUs: the 27in 4K gaming monitor generated $9.85M (35%), Apple Airpods Headphones produced $7.74M (28%), and Macbook Air Laptop added $6.30M (22%) together driving ~85% of total revenue. Order volume skews differently: Airpods led with 48,402 orders, while the 27in monitor delivered fewer orders (23,408) but much higher monetization (AOV ~$421). 
@@ -166,6 +155,24 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fc9eacbb-e022-4b5b-aa57-d57676b233c2" width="900" />
 </p
+
+
+
+
+<p align="center">
+  <img width="493" height="161" alt="image" src="https://github.com/user-attachments/assets/a416caf7-5982-44a9-bf6e-15b9b8142c64" />
+  </p>
+
+<img width="957" height="476" alt="image" src="https://github.com/user-attachments/assets/67443557-b778-4d66-91c8-d8269a56963f" />
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/09f58bb0-7908-4ad3-91f8-e7efe1b3b93b"
+       style="width:360px; height:220px; object-fit:cover;" />
+  <img src="https://github.com/user-attachments/assets/5bf7b66b-79be-4f20-bf8b-20a2d7f08067"
+       style="width:360px; height:220px; object-fit:cover;" />
+</p>
+
 
 An interactive PowerBI dashboard can be downloaded here.
 
