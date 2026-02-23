@@ -65,7 +65,7 @@ The SQL queries used for data quality checks, cleaning, organizing, and preparin
 
 # Executive Summary
 
-Elist generated **$28.1M across 108K orders** from 2019–2022, with revenue accelerating sharply in 2020 before reversing course. Monthly revenue **peaked at $1.25M in 2020**, then declined steadily to **$0.26M by late 2022**, indicating structural demand softening. 
+Elist generated **$28.1M across 108K orders** from 2019–2022, with revenue accelerating sharply in 2020 before reversing course. Monthly revenue peaked at **$1.25M in 2020**, then declined steadily to $0.26M by late 2022, indicating structural demand softening. 
 
 
 The 2022 downturn reflects both volume contraction and pricing pressure, rather than a single operational issue. Stabilizing growth will likely require improving customer retention, diversifying product mix, and protecting AOV.
