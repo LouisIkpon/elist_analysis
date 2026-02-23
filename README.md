@@ -100,7 +100,7 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 <!-- Geographic concentration (hero visual) -->
 <p>
-  <img src="https://github.com/user-attachments/assets/bb22673c-80eb-4ccc-be80-0f861ad5ed46" width="850" />
+  <img src="https://github.com/user-attachments/assets/7a83ade4-d4e7-4ffa-ae83-8884ed1be3e7" width="850" />
 </p>
 
 *North America drives the majority of revenue, while APAC shows higher-value purchases per order.*
