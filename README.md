@@ -76,7 +76,6 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 * The downturn accelerated in 2022 as results weakened across the board—revenue fell ~46% YoY (about -$4.17M vs. 2021), driven by both lower order volume (-40%) and lower AOV (-10%).
 
-
 <!-- Top (full-width) image -->
 <p>
   <img src="https://github.com/user-attachments/assets/f3d51f26-81e0-4fa5-801e-99fda571256a" width="850" />
@@ -85,10 +84,8 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 <!-- Bottom row (two images side by side) -->
 <p>
   <img src="https://github.com/user-attachments/assets/09153391-283b-4e19-8af4-b29d1b238603" width="420" />
-  <img src="https://github.com/user-attachments/assets/cf438991-8739-41ca-86c6-59fe8e66737d" width="420" />
+  <img src="https://github.com/user-attachments/assets/94d1f7df-6b27-4b6f-80c3-d09a3f34e9e8" width="420" />
 </p>
-
-
 
 
 
