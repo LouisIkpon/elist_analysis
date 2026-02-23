@@ -97,7 +97,7 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 **Geographic Concentration**
 - Revenue is heavily concentrated in **North America**, which generated approximately **$14.5M (~52%)** of total sales, giving NA an outsized influence on overall performance.
 - **EMEA** contributed roughly **$8.2M (~29%)**, while **APAC (~13%)** and **LATAM (~6%)** represent smaller but more diversified revenue streams.
-- **APAC stands out with the highest average order value (~$279), reflecting a premium purchasing pattern despite lower overall order volume.
+- **APAC** stands out with the highest average order value (~$279), reflecting a premium purchasing pattern despite lower overall order volume.
 
 <!-- Geographic concentration (hero visual) -->
 <p>
