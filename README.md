@@ -78,19 +78,15 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 
 <!-- Top (full-width) image -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f3d51f26-81e0-4fa5-801e-99fda571256a" width="900" />
+<p>
+  <img src="https://github.com/user-attachments/assets/f3d51f26-81e0-4fa5-801e-99fda571256a" width="850" />
 </p>
 
 <!-- Bottom row (two images side by side) -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f8fa135b-814c-418d-b49f-6860e54a4d99" width="440" />
-  <img src="https://github.com/user-attachments/assets/ed3e4b89-c560-48e5-bcdd-53cc8927fa44" width="440" />
+<p>
+  <img src="https://github.com/user-attachments/assets/f8fa135b-814c-418d-b49f-6860e54a4d99" width="415" />
+  <img src="https://github.com/user-attachments/assets/ed3e4b89-c560-48e5-bcdd-53cc8927fa44" width="415" />
 </p>
-
-
-
-<img width="955" height="536" alt="image" src="https://github.com/user-attachments/assets/05a6dc0c-478a-4da7-a3df-6d5825196f8c" />
 
 
 
