@@ -94,13 +94,13 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 * The downturn accelerated in 2022 as results weakened across the board—revenue fell ~46% YoY (about -$4.17M vs. 2021), driven by both lower order volume (-40%) and lower AOV (-10%).
 
  
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fc9eacbb-e022-4b5b-aa57-d57676b233c2" width="900" />
-</p>
+<img width="470" height="277" alt="image" src="https://github.com/user-attachments/assets/bf921873-1c60-4237-8c26-421c30a90ad1" />
 
-<p align="center">
-  <img width="959" height="541" alt="image" src="https://github.com/user-attachments/assets/cf351816-2e97-457a-ab74-072a3e63105f" />
-</p>
+<img width="474" height="265" alt="image" src="https://github.com/user-attachments/assets/0bd93940-fe1b-49f9-b289-f05110d4d94d" />
+
+<img width="478" height="261" alt="image" src="https://github.com/user-attachments/assets/fbc5abef-e9cd-4d17-9063-d60fa2be6d6d" />
+
+
 
 
 
@@ -176,3 +176,10 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 * On delivery performance (using the segment of 2022 website purchases + all mobile app purchases), average time-to-deliver is tightly clustered around ~7.5 days, with EMEA highest at ~7.53 days (APAC ~7.51, NA ~7.52, LATAM ~7.52), suggesting regional differences in average delivery speed are minimal in that slice. 
 
 # Recommendations
+
+
+# appendix
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fc9eacbb-e022-4b5b-aa57-d57676b233c2" width="900" />
+</p
