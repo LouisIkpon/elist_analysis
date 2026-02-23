@@ -2,9 +2,7 @@
 
 ## Project Overview
 **Goal:** Evaluate Elist Electronics’ historical performance and identify drivers of revenue growth and decline across sales trends, product mix, customer behavior, and geography. 
-
 **Dataset:** Orders, customers, products, and operational data (2019–2022)
-
 **Deliverables:** Executive summary, diagnostic deep dives, Power BI dashboard, and reproducible SQL queries.
 
 ## Table of Contents
