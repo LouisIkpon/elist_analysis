@@ -74,7 +74,7 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 - **In 2021, revenue growth began to slow**, even though orders continued to increase slightly (+6%). A decline in average order value (~15%) suggests customers were spending less per transaction.
 
-- **The decline accelerated in 2022**, with revenue falling ~46% year-over-year (≈$4.2M vs. 2021). Both fewer orders (~–40%) and continued reductions in spend per order (~–10%) contributed to the downturn.
+- **The decline accelerated in 2022**, with revenue falling 46% year-over-year (≈$4.2M vs. 2021). Both fewer orders (40%) and continued reductions in spend per order (10%) contributed to the downturn.
 
 - Together, these trends suggest that the post-pandemic revenue decline was driven by both reduced demand and lower customer spending per order, rather than a single operational issue.
 
