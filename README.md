@@ -30,13 +30,10 @@ Following rapid growth during the pandemic period, Elist experienced a multi-yea
 
 To diagnose Elist’s revenue performance, the analysis is structured around four performance pillars:
 
-**Sales Trends:** Evaluates revenue, order volume, AOV, and refunds to identify structural drivers of growth and decline.
-
-**Product Performance:** Assesses product-level contribution, revenue concentration, and exposure to brand or category dependency risk.
-
-**Loyalty & Retention:** Examines repeat purchasing behavior and the loyalty program’s impact on customer spending and revenue stability.
-
-**Regional Performance:** Compares revenue, orders, and AOV across markets to identify high-performing regions and geographic optimization opportunities.
+** * Sales Trends:** Evaluates revenue, order volume, AOV, and refunds to identify structural drivers of growth and decline.
+** * Product Performance:** Assesses product-level contribution, revenue concentration, and exposure to brand or category dependency risk.
+** * Loyalty & Retention:** Examines repeat purchasing behavior and the loyalty program’s impact on customer spending and revenue stability.
+** * Regional Performance:** Compares revenue, orders, and AOV across markets to identify high-performing regions and geographic optimization opportunities.
 
 
 
