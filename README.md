@@ -1,66 +1,82 @@
 # Elist Ecommerce Performance Report
 
 ## Project Overview
-**Goal:** Evaluate Elist’s historical performance and identify drivers of growth/decline across **Sales, Product Mix, Loyalty, and Region**.  
-**Dataset:** Orders + Customers + Order Status + Geo Lookup (2019–2022).  
-**Deliverables:** Executive summary, KPI deep dives, and reproducible SQL queries + visuals.
+**Goal:** Evaluate Elist Electronics’ historical performance and identify drivers of revenue growth and decline across sales trends, product mix, customer behavior, and geography. 
+**Dataset:** Orders, customers, products, and operational data (2019–2022)
+**Deliverables:** Executive summary, diagnostic deep dives, Power BI dashboard, and reproducible SQL queries.
 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Client Background](#client-background)
-- [North Star Metrics](#north-star-metrics)
-- [Data Structure & ERD](#data-structure--erd-entity-relationship-diagram)
+- [Performance Measurement Framework](#performance-measurement-framework)
 - [Executive Summary](#executive-summary)
 - [Deep-Dive Insights](#deep-dive-insights)
   - [Sales Trends](#sales-trends)
-  - [Seasonality and Geographic Trends](#seasonality-and-geographic-trends)
-  - [Product Trends](#product-trends)
+  - [Seasonality & Geographic Trends](#seasonality--geographic-trends)
+  - [Product Performance](#product-performance)
+  - [Loyalty & Retention](#loyalty--retention)
 - [Recommendations](#recommendations)
+- [Data Structure & ERD (Entity Relationship Diagram)](#data-structure--erd-entity-relationship-diagram)
+- [SQL & Data Preparation](#sql--data-preparation)[Recommendations](#recommendations)
 
 ## Client Background
-Founded in 2018, Elist Electronics is an online retailer that sells popular consumer electronics worldwide via its website and mobile app. The company relies on digital marketing channels (email, SEO, and affiliate partnerships) to drive sales, with especially strong performance from Apple, Samsung, and ThinkPad products.
+Founded in 2018, Elist Electronics is an online retailer selling consumer electronics globally via its website and mobile app. The business relies heavily on digital acquisition channels (email, SEO, affiliate partnerships) and derives a significant portion of revenue from major brands such as Apple, Samsung, and ThinkPad.
 
-This report analyzes Elist’s transactional, customer, and operational data from 2019–2022 to evaluate growth, product performance, loyalty program effectiveness, and refund behavior. Using previously underutilized data on sales, marketing, operations, products, and the loyalty program, the analysis generates actionable insights to strengthen Elist’s commercial performance. 
-
-
-## Northstar Metrics
+Following rapid growth during the pandemic period, Elist experienced a multi-year revenue decline. This report evaluates whether that decline reflects temporary normalization or structural performance challenges, and identifies actionable levers for stabilization and growth.
 
 
-  * **Sales Trends:** Evaluation of historical sales performance, focusing on revenue, number of orders, average order value (AOV), and refund rates by year and region.  
-
-  * **Product Performance:** Analysis of major product lines to understand their contribution to sales, profitability, and returns, with an emphasis on Apple, Samsung, and ThinkPad products.
-
-  * **Loyalty Program:** Assessment of how the loyalty program influences customer retention, spending behavior, and overall sales, with recommendations to increase engagement.
-
-  * **Regional Comparisons:**  Comparison of revenue, orders, and AOV across regions to identify high-performing markets and areas with growth or optimization opportunities.
+## Performance Measurement Framework
 
 
+**1. Sales Trends**
 
-An interactive PowerBI dashboard can be downloaded here.
+Diagnose historical revenue performance and identify structural drivers of growth and decline across:
 
+* Revenue
 
+* Order volume
 
-Targeted SQL queries regarding various business questions can be found here.
+* Average order value (AOV)
+
+* Refund behavior
 
 
 
-# Data Structure & ERD (Entity Relationship Diagram)
+**2. Product Performance**
+
+Evaluate major product lines to understand:
+
+* Revenue concentration
+
+* Product-level contribution to growth and decline
+
+* Exposure to brand or category dependency risk
+
+  
+**3. Loyalty & Retention**
+
+Assess the effectiveness of the loyalty program by analyzing:
+
+* Repeat purchase behavior
+
+* Customer spending patterns
+
+* Contribution of loyal customers to overall revenue
+  
+
+**4. Regional Performance**
+
+Compare revenue, order volume, and AOV across regions to:
+
+* Identify high-performing markets
+
+* Surface underperforming or declining regions
+
+* Highlight opportunities for geographic optimization
 
 
-Elist's database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records.
 
-
-<p align="center">
-  <img src="PATH_OR_URL_TO_IMAGE" alt="Monthly sales table" width="700">
-</p>
-
-
-
-
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets, the data cleaning change log can be found here.
-
-The SQL queries used for data quality checks, cleaning, organizing, and preparing the data for the dashboard can be found here.
 
 
 # Executive Summary
@@ -183,3 +199,28 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fc9eacbb-e022-4b5b-aa57-d57676b233c2" width="900" />
 </p
+
+An interactive PowerBI dashboard can be downloaded here.
+
+
+
+Targeted SQL queries regarding various business questions can be found here.
+
+
+
+# Data Structure & ERD (Entity Relationship Diagram)
+
+
+Elist's database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records.
+
+
+<p align="center">
+  <img src="PATH_OR_URL_TO_IMAGE" alt="Monthly sales table" width="700">
+</p>
+
+
+
+
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets, the data cleaning change log can be found here.
+
+The SQL queries used for data quality checks, cleaning, organizing, and preparing the data for the dashboard can be found here.
