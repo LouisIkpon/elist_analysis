@@ -91,19 +91,28 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 
 
-## Seasonality and Geographic Trends:
+### Seasonality and Geographic Trends
 
-* Revenue is geographically concentrated in North America, which generated $14.55M (~52%) of total sales, followed by EMEA ($8.22M, ~29%) and APAC ($3.65M, ~13%), while LATAM contributed the smallest share ($1.67M, ~6%). Because North America represents over half of total revenue, performance changes in NA have an outsized impact on overall results.
+**Geographic Concentration**
+- Revenue is heavily concentrated in **North America**, which generated approximately **$14.5M (~52%)** of total sales, giving NA an outsized influence on overall performance.
+- **EMEA** contributed roughly **$8.2M (~29%)**, while **APAC (~13%)** and **LATAM (~6%)** represent smaller but more diversified revenue streams.
+- **APAC stands out with the highest average order value (~$279)**, indicating a premium purchasing pattern despite lower overall order volume.
 
-* APAC stands out with the highest AOV (~$279), indicating fewer but higher-value purchases and a more premium demand profile relative to other regions. “Unknown” geography is immaterial (<0.1% of sales) and does not materially affect the regional story.
+<!-- Geographic concentration (hero visual) -->
+<p>
+  <img src="GEOGRAPHIC_CHART_URL" width="850" />
+</p>
+*North America drives the majority of revenue, while APAC shows higher-value purchases per order.*
 
+**Seasonality**
+- Sales display clear seasonality, with demand peaking in **Q4**, particularly in **December (~10.15% of annual sales)**, reflecting holiday-driven purchasing behavior.
+- **Q1 is consistently softer**, with **February (~6.78%)** representing the weakest month on average, suggesting an early-year normalization following the holiday period.
 
-<img width="961" height="410" alt="image" src="https://github.com/user-attachments/assets/219b0860-3d0f-41ec-890a-19ee2a6a1afe" />
-
-
-* Sales also showed consistent seasonality, with Q4 strength and December as the peak month across 2019–2022 ($2.86M, 10% of total sales). By contrast, February was consistently the weakest month ($1.91M, ~6.8% of sales), suggesting a repeatable seasonal low.
-
-<img width="961" height="322" alt="image" src="https://github.com/user-attachments/assets/e24e1c5a-528d-4c71-9021-4595d3f78b9d" />
+<!-- Seasonality (supporting visual) -->
+<p>
+  <img src="SEASONALITY_CHART_URL" width="850" />
+</p>
+*Revenue consistently peaks in Q4 and softens in early Q1, indicating predictable holiday-driven seasonality.*
 
 
 ## Product Trends
