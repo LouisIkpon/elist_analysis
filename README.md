@@ -100,8 +100,9 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 <!-- Geographic concentration (hero visual) -->
 <p>
-  <img src="GEOGRAPHIC_CHART_URL" width="850" />
+  <img src="https://github.com/user-attachments/assets/bb22673c-80eb-4ccc-be80-0f861ad5ed46" width="850" />
 </p>
+
 *North America drives the majority of revenue, while APAC shows higher-value purchases per order.*
 
 **Seasonality**
@@ -110,8 +111,9 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 <!-- Seasonality (supporting visual) -->
 <p>
-  <img src="SEASONALITY_CHART_URL" width="850" />
+  <img src="https://github.com/user-attachments/assets/a489b786-3d5f-442c-904b-c0961c133f77" width="850" />
 </p>
+
 *Revenue consistently peaks in Q4 and softens in early Q1, indicating predictable holiday-driven seasonality.*
 
 
