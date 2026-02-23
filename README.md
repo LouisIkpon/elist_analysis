@@ -68,15 +68,16 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 
 
-## Sales Trends
+### Sales Trends
 
-* 2020 was Elist’s breakout year, with revenue up +163% YoY, driven by both higher demand (orders +101%) and larger baskets (AOV +31%) versus 2019.
-  
-* In 2021, order volume continued to grow (+6%), but a -15% decline in AOV pulled revenue down ~10%, indicating customers were purchasing but spending less per order.
+- **Revenue surged in 2020**, increasing +163% year-over-year. This growth was driven by both a sharp rise in order volume (+101%) and customers spending more per order (AOV +31%).
 
-* The downturn accelerated in 2022 as results weakened across the board—revenue fell ~46% YoY (about -$4.17M vs. 2021), driven by both lower order volume (-40%) and lower AOV (-10%).
+- **In 2021, revenue growth began to slow**, even though orders continued to increase slightly (+6%). A decline in average order value (~15%) suggests customers were spending less per transaction.
 
-<!-- Top (full-width) image -->
+- **The decline accelerated in 2022**, with revenue falling ~46% year-over-year (≈$4.2M vs. 2021). Both fewer orders (~–40%) and continued reductions in spend per order (~–10%) contributed to the downturn.
+
+- Together, these trends suggest that the post-pandemic revenue decline was driven by both reduced demand and lower customer spending per order, rather than a single operational issue.
+
 <p>
   <img src="https://github.com/user-attachments/assets/f3d51f26-81e0-4fa5-801e-99fda571256a" width="850" />
 </p>
