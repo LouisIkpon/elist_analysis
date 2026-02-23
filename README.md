@@ -93,6 +93,19 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 ### Seasonality and Geographic Trends
 
+
+**Seasonality**
+- Sales display clear seasonality, with demand peaking in **Q4**, particularly in **December (~10.15% of annual sales)**, reflecting holiday-driven purchasing behavior.
+- **Q1 is consistently softer**, with **February (~6.78%)** representing the weakest month on average, suggesting an early-year normalization following the holiday period.
+
+<!-- Seasonality (supporting visual) -->
+<p>
+  <img src="https://github.com/user-attachments/assets/a489b786-3d5f-442c-904b-c0961c133f77" width="850" />
+</p>
+
+*Revenue consistently peaks in Q4 and softens in early Q1, indicating predictable holiday-driven seasonality.*
+
+
 **Geographic Concentration**
 - Revenue is heavily concentrated in **North America**, which generated approximately **$14.5M (~52%)** of total sales, giving NA an outsized influence on overall performance.
 - **EMEA** contributed roughly **$8.2M (~29%)**, while **APAC (~13%)** and **LATAM (~6%)** represent smaller but more diversified revenue streams.
@@ -105,16 +118,6 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 *North America drives the majority of revenue, while APAC shows higher-value purchases per order.*
 
-**Seasonality**
-- Sales display clear seasonality, with demand peaking in **Q4**, particularly in **December (~10.15% of annual sales)**, reflecting holiday-driven purchasing behavior.
-- **Q1 is consistently softer**, with **February (~6.78%)** representing the weakest month on average, suggesting an early-year normalization following the holiday period.
-
-<!-- Seasonality (supporting visual) -->
-<p>
-  <img src="https://github.com/user-attachments/assets/a489b786-3d5f-442c-904b-c0961c133f77" width="850" />
-</p>
-
-*Revenue consistently peaks in Q4 and softens in early Q1, indicating predictable holiday-driven seasonality.*
 
 
 ## Product Trends
