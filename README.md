@@ -121,17 +121,15 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 ## Product Trends
 
-- **Revenue is highly concentrated in a small set of core products.**  
-  From 2019–2022, three SKUs—the **27in 4K gaming monitor ($9.85M, ~35%)**, **Apple AirPods Headphones ($7.74M, ~28%)**, and **MacBook Air Laptop ($6.30M, ~22%)**—collectively generated **~85% of total revenue**, making overall performance highly sensitive to trends in these products.
+Revenue over 2019–2022 was highly concentrated in a small number of products. The 27in 4K gaming monitor ($9.85M, ~35%), Apple AirPods Headphones ($7.74M, ~28%), and MacBook Air Laptop ($6.30M, ~22%) together generated roughly 85% of total sales, indicating that overall performance is heavily influenced by trends within a limited SKU set.
 
-- **Revenue drivers differ meaningfully by product type.**  
-  **AirPods** generate the highest order volume (**~48K orders**), acting as a **frequency-driven revenue anchor**, while the **27in monitor** delivers fewer orders (**~23K**) but higher monetization per order (**AOV ~$421**), positioning it as a high-impact volume driver.
+However, the way these products generate revenue differs materially. AirPods lead in order volume (~48K orders), driving revenue through high purchase frequency. In contrast, the 27in monitor generates fewer orders (~23K) but delivers stronger monetization per transaction (AOV ~$421), balancing both volume and value.
 
-- **Premium laptops are ticket-size–driven rather than volume-driven.**  
-  **MacBook Air ($1,588 AOV)** and **ThinkPad ($1,100 AOV)** generate substantial revenue through high price points despite relatively low order counts (**~4K and ~3K orders**, respectively), indicating a premium purchase behavior with limited repeat frequency.
+Premium laptops such as the MacBook Air (AOV ~$1,588) and ThinkPad (~$1,100) operate differently, contributing revenue primarily through higher ticket size rather than transaction frequency. Their lower order counts (~4K and ~3K, respectively) suggest a premium purchasing pattern with less repeat behavior.
 
-- **Accessories contribute volume but limited revenue impact.**  
-  Lower-priced items such as **Samsung charging cable packs (AOV ~$20)** generate meaningful order volume but contribute minimally to revenue, suggesting these products are better positioned as **attach-rate, retention, or bundling levers** rather than standalone revenue drivers.
+Lower-priced accessories generate meaningful order counts but limited revenue impact due to low average order values (e.g., ~$20 cable packs). While these items support volume, their contribution to total revenue is modest relative to core products.
+
+Together, these patterns suggest that Elist’s product portfolio relies on a small group of high-impact SKUs, with revenue driven by different mechanisms—frequency for mass-market items and ticket size for premium products—highlighting the need for differentiated growth strategies across product tiers.
 
 
 <img width="952" height="325" alt="image" src="https://github.com/user-attachments/assets/93671832-801b-434e-8a9b-a7ca041be470" />
