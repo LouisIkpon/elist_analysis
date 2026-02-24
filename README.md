@@ -124,11 +124,12 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 * Premium laptops show very high AOVs (Macbook Air $1,588, ThinkPad $1,100) but much lower order counts (~3,964 and 2,916 respectively), meaning revenue comes from ticket size more than frequency. Lower-priced accessories (e.g., Samsung charging cable pack) generate meaningful order volume but limited revenue due to low AOV ($20), so they’re better treated as attach-rate/retention plays than core revenue drivers.
 
-  <img width="718" height="301" alt="image" src="https://github.com/user-attachments/assets/ad843d7b-8abf-41b4-8062-201b1ad0ae92" />
 
-<img width="960" height="322" alt="image" src="https://github.com/user-attachments/assets/bbe0bb8f-67e5-4b56-95a9-6170b67278f2" />
 
-<img width="1267" height="716" alt="image" src="https://github.com/user-attachments/assets/72e23ccb-624a-4780-951c-8e23de704bed" />
+<img width="633" height="322" alt="image" src="https://github.com/user-attachments/assets/25feb178-fb2d-4f31-a26f-436b54bc4990" />
+
+<img width="630" height="321" alt="image" src="https://github.com/user-attachments/assets/d90be0fa-ee19-4fd8-a1c3-c056b8e4c22a" />
+
 
 
 
@@ -139,6 +140,8 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 
 <img width="1162" height="474" alt="image" src="https://github.com/user-attachments/assets/d70bdd9f-a754-4e7a-b9fb-8e92d34923a1" />
+
+
 
 
 
@@ -186,6 +189,10 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
        style="width:360px; height:220px; object-fit:cover;" />
 </p>
 
+  <img width="718" height="301" alt="image" src="https://github.com/user-attachments/assets/ad843d7b-8abf-41b4-8062-201b1ad0ae92" />
+
+  <img width="718" height="301" alt="image" src="https://github.com/user-attachments/assets/ad843d7b-8abf-41b4-8062-201b1ad0ae92" />
+  
 
 An interactive PowerBI dashboard can be downloaded here.
 
