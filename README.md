@@ -119,24 +119,29 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 *Revenue consistently peaks in Q4 and softens in early Q1, reinforcing predictable holiday-driven seasonality.*
 
 
-## Product Trends
+### Product Trends
 
-From 2019–2022, revenue was highly concentrated in a small set of core products: the 27in 4K gaming monitor (~$9.9M, ~35%), Apple AirPods Headphones (~$7.7M, ~28%), and MacBook Air Laptop (~$6.3M, ~22%) together generated roughly 85% of total sales, meaning overall performance is largely driven by trends within a limited SKU set.
+**Revenue Concentration**
+From 2019–2022, revenue was highly concentrated in a small set of core products: the 27in 4K gaming monitor (~$9.9M, ~35%), Apple AirPods Headphones (~$7.7M, ~28%), and MacBook Air Laptop (~$6.3M, ~22%) together generated roughly 85% of total sales, meaning overall performance is largely driven by trends within a limited set of flagship SKUs.
 
+**Volume vs Ticket Size**
 These products generate revenue in different ways: AirPods lead in order volume (~48K orders), driving revenue through purchase frequency, while the 27in monitor delivers fewer orders (~23K) but stronger monetization per transaction (AOV ~$421), balancing both volume and value.
 
+**Premium vs Accessory Products**
 Premium laptops (MacBook Air and ThinkPad) contribute revenue primarily through higher ticket size (AOVs ~$1,588 and ~$1,100) rather than frequency, reflecting lower order counts but higher per-order spend.
 
+**Key Takeaways**
 Lower-priced accessories generate meaningful order volume but limited revenue impact due to very low AOVs (e.g., ~$20 cable packs), positioning them as attach-rate or retention drivers rather than core revenue contributors.
 
 Together, these patterns suggest that Elist’s product portfolio relies on a small group of high-impact SKUs, with revenue driven by different mechanisms—frequency for mass-market items and ticket size for premium products—highlighting the need for differentiated growth strategies across product tiers.
+
 
 
 <p>
   <img src="https://github.com/user-attachments/assets/93671832-801b-434e-8a9b-a7ca041be470" width="900" />
 </p>
 
-*The majority of revenue is driven by a small number of flagship products, with the top three SKUs accounting for nearly 85% of total sales.*
+*Revenue is highly concentrated, with the top three SKUs accounting for nearly 85% of total sales.*
 
 
 <p>
