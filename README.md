@@ -72,7 +72,7 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 - **Revenue surged in 2020**, increasing +163% year-over-year. This growth was driven by both a sharp rise in order volume (+101%) and customers spending more per order (AOV +31%).
 
-- **In 2021, revenue growth began to slow**, even though orders continued to increase slightly (+6%). A decline in average order value (~15%) suggests customers were spending less per transaction.
+- **In 2021, revenue growth began to slow**, even though orders continued to increase slightly (+6%). A decline in average order value (15%) suggests customers were spending less per transaction.
 
 - **The decline accelerated in 2022**, with revenue falling 46% year-over-year (≈$4.2M vs. 2021). Both fewer orders (40%) and continued reductions in spend per order (10%) contributed to the downturn.
 
@@ -95,9 +95,9 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 
 **Geographic Concentration**
-- Revenue is heavily concentrated in **North America**, which generated approximately **$14.5M (~52%)** of total sales, giving NA an outsized influence on overall performance.
-- **EMEA** contributed roughly **$8.2M (~29%)**, while **APAC (~13%)** and **LATAM (~6%)** represent smaller but more diversified revenue streams.
-- **APAC** stands out with the highest average order value (~$279), reflecting a premium purchasing pattern despite lower overall order volume.
+- Revenue is heavily concentrated in **North America**, which generated approximately **$14.5M (52%)** of total sales, giving NA an outsized influence on overall performance.
+- **EMEA** contributed roughly **$8.2M (29%)**, while **APAC (13%)** and **LATAM (6%)** represent smaller but more diversified revenue streams.
+- **APAC** stands out with the highest average order value ($279), reflecting a premium purchasing pattern despite lower overall order volume.
 
 <!-- Geographic concentration (hero visual) -->
 <p>
@@ -108,8 +108,8 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 
 **Seasonality**
-- Sales display clear seasonality, with demand peaking in **Q4**, particularly in **December (~10.15% of annual sales)**, reflecting holiday-driven purchasing behavior.
-- **Q1 is consistently softer**, with **February (~6.78%)** representing the weakest month on average, suggesting an early-year normalization following the holiday period.
+- Sales display clear seasonality, with demand peaking in **Q4**, particularly in **December (10.15% of annual sales)**, reflecting holiday-driven purchasing behavior.
+- **Q1 is consistently softer**, with **February (6.78%)** representing the weakest month on average, suggesting an early-year normalization following the holiday period.
 
 <!-- Seasonality (supporting visual) -->
 <p>
@@ -122,18 +122,18 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 ### Product Trends
 
 **Revenue Concentration:**
-- From 2019–2022, revenue was highly concentrated in a small set of core products: the 27in 4K gaming monitor (~$9.9M, ~35%), Apple AirPods Headphones (~$7.7M, ~28%), and MacBook Air Laptop (~$6.3M, ~22%) together generated roughly 85% of total sales, meaning overall performance is largely driven by trends within a limited set of flagship SKUs.
+- From 2019–2022, revenue was highly concentrated in a small set of core products: the 27in 4K gaming monitor ($9.9M, 35%), Apple AirPods Headphones ($7.7M, 28%), and MacBook Air Laptop ($6.3M, 22%) together generated roughly 85% of total sales, meaning overall performance is largely driven by trends within a limited set of flagship SKUs.
 
 **Volume vs Ticket Size:**
-- These products generate revenue in different ways: AirPods lead in order volume (~48K orders), driving revenue through purchase frequency, while the 27in monitor delivers fewer orders (~23K) but stronger monetization per transaction (AOV ~$421), balancing both volume and value.
+- These products generate revenue in different ways: AirPods lead in order volume (48K orders), driving revenue through purchase frequency, while the 27in monitor delivers fewer orders (23K) but stronger monetization per transaction (AOV $421), balancing both volume and value.
 
 **Premium vs Accessory Products:**
 - Premium laptops (MacBook Air and ThinkPad) contribute revenue primarily through higher ticket size (AOVs ~$1,588 and ~$1,100) rather than frequency, reflecting lower order counts but higher per-order spend.
 
 **Key Takeaways:**
-Lower-priced accessories generate meaningful order volume but limited revenue impact due to very low AOVs (e.g., ~$20 cable packs), positioning them as attach-rate or retention drivers rather than core revenue contributors.
+- Lower-priced accessories generate meaningful order volume but limited revenue impact due to very low AOVs (e.g., $20 cable packs), positioning them as attach-rate or retention drivers rather than core revenue contributors.
 
-Together, these patterns suggest that Elist’s product portfolio relies on a small group of high-impact SKUs, with revenue driven by different mechanisms—frequency for mass-market items and ticket size for premium products—highlighting the need for differentiated growth strategies across product tiers.
+- Together, these patterns suggest that Elist’s product portfolio relies on a small group of high-impact SKUs, with revenue driven by different mechanisms—frequency for mass-market items and ticket size for premium products—highlighting the need for differentiated growth strategies across product tiers.
 
 
 
