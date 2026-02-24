@@ -120,15 +120,25 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 
 ## Product Trends
-* Across 2019–2022, Elist’s sales were highly concentrated in a few SKUs: the 27in 4K gaming monitor generated $9.85M (35%), Apple Airpods Headphones produced $7.74M (28%), and Macbook Air Laptop added $6.30M (22%) together driving ~85% of total revenue. Order volume skews differently: Airpods led with 48,402 orders, while the 27in monitor delivered fewer orders (23,408) but much higher monetization (AOV ~$421). 
 
-* Premium laptops show very high AOVs (Macbook Air $1,588, ThinkPad $1,100) but much lower order counts (~3,964 and 2,916 respectively), meaning revenue comes from ticket size more than frequency. Lower-priced accessories (e.g., Samsung charging cable pack) generate meaningful order volume but limited revenue due to low AOV ($20), so they’re better treated as attach-rate/retention plays than core revenue drivers.
+- **Revenue is highly concentrated in a small set of core products.**  
+  From 2019–2022, three SKUs—the **27in 4K gaming monitor ($9.85M, ~35%)**, **Apple AirPods Headphones ($7.74M, ~28%)**, and **MacBook Air Laptop ($6.30M, ~22%)**—collectively generated **~85% of total revenue**, making overall performance highly sensitive to trends in these products.
+
+- **Revenue drivers differ meaningfully by product type.**  
+  **AirPods** generate the highest order volume (**~48K orders**), acting as a **frequency-driven revenue anchor**, while the **27in monitor** delivers fewer orders (**~23K**) but higher monetization per order (**AOV ~$421**), positioning it as a high-impact volume driver.
+
+- **Premium laptops are ticket-size–driven rather than volume-driven.**  
+  **MacBook Air ($1,588 AOV)** and **ThinkPad ($1,100 AOV)** generate substantial revenue through high price points despite relatively low order counts (**~4K and ~3K orders**, respectively), indicating a premium purchase behavior with limited repeat frequency.
+
+- **Accessories contribute volume but limited revenue impact.**  
+  Lower-priced items such as **Samsung charging cable packs (AOV ~$20)** generate meaningful order volume but contribute minimally to revenue, suggesting these products are better positioned as **attach-rate, retention, or bundling levers** rather than standalone revenue drivers.
 
 
+<img width="952" height="325" alt="image" src="https://github.com/user-attachments/assets/93671832-801b-434e-8a9b-a7ca041be470" />
 
-<img width="633" height="322" alt="image" src="https://github.com/user-attachments/assets/25feb178-fb2d-4f31-a26f-436b54bc4990" />
 
-<img width="630" height="321" alt="image" src="https://github.com/user-attachments/assets/d90be0fa-ee19-4fd8-a1c3-c056b8e4c22a" />
+<img width="954" height="322" alt="image" src="https://github.com/user-attachments/assets/92774757-e5b4-4915-bc7c-e1ee1575ff5e" />
+
 
 
 
