@@ -131,11 +131,13 @@ Lower-priced accessories generate meaningful order volume but limited revenue im
 
 Together, these patterns suggest that Elist’s product portfolio relies on a small group of high-impact SKUs, with revenue driven by different mechanisms—frequency for mass-market items and ticket size for premium products—highlighting the need for differentiated growth strategies across product tiers.
 
+
 <p>
   <img src="https://github.com/user-attachments/assets/93671832-801b-434e-8a9b-a7ca041be470" width="900" />
 </p>
 
 *The majority of revenue is driven by a small number of flagship products, with the top three SKUs accounting for nearly 85% of total sales.*
+
 
 <p>
   <img src="https://github.com/user-attachments/assets/92774757-e5b4-4915-bc7c-e1ee1575ff5e" width="900" />
