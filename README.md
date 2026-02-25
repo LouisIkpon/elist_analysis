@@ -190,10 +190,7 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 <img width="959" height="248" alt="image" src="https://github.com/user-attachments/assets/632f9c76-f238-4ca9-b0d4-daec7b240a42" />
 
-
 <img width="956" height="443" alt="image" src="https://github.com/user-attachments/assets/53bc0618-60d4-4346-9974-ee38e544d071" />
-
-
 
 *Refund risk differs by product tier: premium products exhibit higher return rates, while high-volume products drive total refund impact.*
 
