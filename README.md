@@ -192,12 +192,13 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
   <img src="https://github.com/user-attachments/assets/632f9c76-f238-4ca9-b0d4-daec7b240a42" width="900" />
 </p>
 
-<p>
-  <img src="https://github.com/user-attachments/assets/4eb0b2fe-02a5-459c-b5e5-b927584c6326" width="900" />
-</p>
+<img width="961" height="261" alt="image" src="https://github.com/user-attachments/assets/429252b3-de70-4a61-b5d1-1d2bc7443e3b" />
+
 
 
 *Refund risk differs by product tier: premium products exhibit higher return rates, while high-volume products drive total refund impact.*
+
+
 ## Regional Comparisons
 * Regional results show consistent product demand patterns and broadly similar operational performance across markets. Apple AirPods Headphones are the #1 product in every region, with order volume led by NA (24,731), followed by EMEA (15,090), APAC (5,662), and LATAM (2,636)—so performance in this single product has a global impact.
 
