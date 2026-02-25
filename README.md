@@ -188,10 +188,12 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 - At the portfolio level, refund rates peaked in 2020 (~9.2%), improved in 2021 (~3.6%), and appear as 0.0% in 2022 under the order_status-based metric. The 2022 result should be treated as a data coverage or tracking validation check rather than a true absence of refunds.
 
 
-<img width="953" height="266" alt="image" src="https://github.com/user-attachments/assets/524546ed-5f83-48bb-839c-d789e7e2626a" />
+<img width="959" height="248" alt="image" src="https://github.com/user-attachments/assets/632f9c76-f238-4ca9-b0d4-daec7b240a42" />
 
 
-<img width="957" height="284" alt="image" src="https://github.com/user-attachments/assets/a388145b-b22f-4125-8bf5-f6b6087dbb25" />
+
+<img width="956" height="443" alt="image" src="https://github.com/user-attachments/assets/53bc0618-60d4-4346-9974-ee38e544d071" />
+
 
 
 *Refund risk differs by product tier: premium products exhibit higher return rates, while high-volume products drive total refund impact.*
