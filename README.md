@@ -188,8 +188,12 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 - At the portfolio level, refund rates peaked in 2020 (~9.2%), improved in 2021 (~3.6%), and appear as 0.0% in 2022 under the order_status-based metric. The 2022 result should be treated as a data coverage or tracking validation check rather than a true absence of refunds.
 
 <!-- Refund volume & mix -->
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/632f9c76-f238-4ca9-b0d4-daec7b240a42" width="900" />
+</p>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/4eb0b2fe-02a5-459c-b5e5-b927584c6326" width="900" />
 </p>
 
 
