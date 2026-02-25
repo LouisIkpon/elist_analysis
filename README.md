@@ -201,9 +201,14 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 
 ## Regional Comparisons
-* Regional results show consistent product demand patterns and broadly similar operational performance across markets. Apple AirPods Headphones are the #1 product in every region, with order volume led by NA (24,731), followed by EMEA (15,090), APAC (5,662), and LATAM (2,636)—so performance in this single product has a global impact.
 
-* On delivery performance (using the segment of 2022 website purchases + all mobile app purchases), average time-to-deliver is tightly clustered around ~7.5 days, with EMEA highest at ~7.53 days (APAC ~7.51, NA ~7.52, LATAM ~7.52), suggesting regional differences in average delivery speed are minimal in that slice. 
+**Regional analysis was used as a consistency check to understand whether product demand and operational performance varied meaningfully across markets.**
+
+- Product demand patterns are highly consistent across regions. Apple AirPods Headphones are the top-selling product in every market, with order volume led by North America (24,731), followed by EMEA (15,090), APAC (5,662), and LATAM (2,636). This indicates that performance in a single high-volume product has a global impact rather than being driven by region-specific preferences.
+
+- Delivery performance is also broadly consistent across regions. Using 2022 website purchases and all mobile app purchases, average time-to-deliver is tightly clustered around ~7.5 days across all markets (EMEA ~7.53, NA ~7.52, LATAM ~7.52, APAC ~7.51), suggesting minimal regional differences in fulfillment speed within this segment.
+
+Overall, these results suggest that regional differences are not a primary driver of performance variation, allowing product- and customer-level strategies to be applied consistently across markets.
 
 # Recommendations
 
