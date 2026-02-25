@@ -179,7 +179,7 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 ## Refund Rates
 
-**Refunds are concentrated in a small number of high-volume products, while elevated refund rates are primarily observed in premium categories.**
+**Refunds are concentrated in high-volume products, while elevated refund rates are primarily observed in premium categories.**
 
 - Refund risk varies significantly by product, so both refund rate (%) and refund count (#) are evaluated together to separate quality-driven risk from scale-driven risk. The highest refund rates are observed in premium laptops — ThinkPad (~11.7%, 342 refunds) and MacBook Air (~11.4%, 453 refunds) — indicating elevated return friction in higher-ticket categories.
 
@@ -197,7 +197,7 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 </p>
 
 
-*Refund risk differs by product tier: premium products exhibit higher return rates, while high-volume products drive total refund impact.*
+*Refund risk differs by product tier: premium items drive higher rates, while high-volume products drive total impact.*
 
 
 ## Regional Comparisons
