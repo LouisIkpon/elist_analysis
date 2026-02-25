@@ -160,12 +160,14 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 
 ## Loyalty Program
-* Across 2019–2022, loyalty customers consistently produced the majority of volume and revenue, with totals showing ~62,430 loyalty orders vs. ~45,693 non-loyalty orders and ~$17.14M loyalty sales vs. ~$10.97M non-loyalty sales. Non-loyalty customers tended to have higher AOV overall (~$275) compared to loyalty (~$240), meaning loyalty drives scale (repeat volume) while non-loyalty drives slightly larger baskets per order.
-  
-* The gap was most pronounced in 2020, when loyalty sales jumped to ~$7.19M while non-loyalty reached ~$2.97M, aligning with the breakout year’s demand surge. By 2022, both segments declined, but loyalty still remained the larger driver of total orders, so any retention/engagement improvements inside loyalty have an outsized impact on topline stability.
+
+- Loyalty customers consistently drove the majority of sales volume and revenue from 2019–2022, generating approximately 62K orders and $17.1M in revenue, compared to 46K orders and $11.0M from non-loyalty customers. While non-loyalty shoppers spent slightly more per order on average (AOV ~$275 vs. ~$240), loyalty customers contributed more overall through repeat purchasing.
+
+- The divergence was most pronounced in 2020, when loyalty revenue surged to ~$7.2M, more than double non-loyalty revenue (~$3.0M), aligning with the pandemic-driven demand spike. By 2022, both segments declined, but loyalty customers remained the primary source of order volume, indicating that improvements in retention and engagement within the loyalty program would have an outsized impact on revenue stability.
 
 
-<img width="1162" height="474" alt="image" src="https://github.com/user-attachments/assets/d70bdd9f-a754-4e7a-b9fb-8e92d34923a1" />
+<img width="958" height="396" alt="image" src="https://github.com/user-attachments/assets/ebbf6d28-457c-41fe-a946-fe14d2bbabba" />
+
 
 
 
