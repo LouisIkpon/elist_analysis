@@ -210,7 +210,23 @@ The 2022 downturn reflects both volume contraction and pricing pressure, rather 
 
 Overall, these results suggest that regional differences are not a primary driver of performance variation, allowing product- and customer-level strategies to be applied consistently across markets.
 
-# Recommendations
+## Recommendations
+
+**1. Protect and Optimize Core Revenue Drivers**
+- Revenue is highly concentrated in a small number of flagship products, particularly the 27in 4K gaming monitor, Apple AirPods Headphones, and MacBook Air Laptop. Pricing, availability, and merchandising decisions for these SKUs should be prioritized, as performance shifts here have an outsized impact on overall revenue.
+- Growth strategies should remain differentiated by product tier: mass-market items benefit most from volume and conversion optimization, while premium products benefit from protecting price integrity and reducing purchase friction.
+
+**2. Strengthen Loyalty to Support Revenue Stability**
+- Loyalty customers consistently drive the majority of order volume and total revenue, even as overall demand declined post-2020. Improvements in retention, engagement, and repeat purchase behavior within the loyalty program are likely to have a meaningful stabilizing effect on topline performance.
+- While non-loyalty customers exhibit slightly higher AOVs, loyalty’s contribution through scale suggests that long-term growth is better supported through repeat behavior rather than one-time basket expansion.
+
+**3. Reduce Refund Risk Where Rate and Scale Intersect**
+- Refund prevention efforts should focus on high-impact areas where refund rate and sales share intersect. Premium laptops exhibit the highest refund rates, indicating an opportunity to reduce quality or expectation mismatches in higher-ticket categories.
+- High-volume products such as AirPods generate the largest absolute number of refunds despite lower rates, meaning small operational or process improvements at scale could materially reduce total refund volume.
+
+**4. Apply Product and Customer Strategies Consistently Across Regions**
+- Regional analysis shows broadly consistent product demand patterns and delivery performance across markets, suggesting geography is not a primary driver of performance variation.
+- As a result, product- and customer-level strategies can be applied globally without heavy regional customization, allowing teams to focus optimization efforts where they matter most.
 
 
 # appendix
