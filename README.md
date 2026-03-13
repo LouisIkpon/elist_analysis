@@ -231,14 +231,11 @@ Overall, these results suggest that regional differences are not a primary drive
 
 # Appendix
 
-Elist's database structure (ERD) as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records and can be found here.
+• View the Entity Relationship Diagram **here**:  
+[here](Excel/elist_erd.png)
 
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets which can be found here. 
+• Explore the SQL queries used in the analysis **here**:  
+[here](SQL/)
 
-The SQL queries utilized to inspect and perform quality checks can be found here 
-
-• [Entity Relationship Diagram](Excel/erd_diagram.png)
-
-• [SQL Queries](SQL/)
-
-• [Data Issue Log](Excel/data_issue_log.xlsx)
+• Review the data issue log and cleaning notes **here**:  
+[here](Excel/data_issue_log.xlsx)
