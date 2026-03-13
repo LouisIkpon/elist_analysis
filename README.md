@@ -43,8 +43,13 @@ To diagnose Elist’s revenue performance, the analysis is structured around fou
 
 - **Regional Performance**  
   Market-level comparison of revenue, orders, and AOV to identify geographic strength and optimization opportunities.
+  
 
+- View the Entity Relationship Diagram [here](Excel/elist_erd.png)
 
+- Review the data issue log and cleaning notes [here](Excel/data_issue_log.xlsx)
+
+- Explore the SQL queries used in the analysis [here](SQL/)
 
 # Executive Summary
 
@@ -227,12 +232,3 @@ Overall, these results suggest that regional differences are not a primary drive
 **4. Apply Product and Customer Strategies Consistently Across Regions**
 - Regional analysis shows broadly consistent product demand patterns and delivery performance across markets, suggesting geography is not a primary driver of performance variation.
 - As a result, product- and customer-level strategies can be applied globally without heavy regional customization, allowing teams to focus optimization efforts where they matter most.
-
-
-# Appendix
-
-- View the Entity Relationship Diagram [here](Excel/elist_erd.png)
-
-- - Review the data issue log and cleaning notes [here](Excel/data_issue_log.xlsx)
-
-- Explore the SQL queries used in the analysis [here](SQL/)
