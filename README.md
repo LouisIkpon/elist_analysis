@@ -100,9 +100,17 @@ The 2022 downturn reflects both the number of orders and the average amount cust
 
 
 **Geographic Concentration**
+
+
 - Revenue is heavily concentrated in **North America**, which generated approximately **$14.5M** more than half of total sales. This gives the region an outsized impact on overall company    performance.
+
+  
 - **EMEA** contributed roughly **$8.2M (29%)**, while **APAC (13%)** and **LATAM (6%)** represent smaller but more diversified revenue streams.
+
+  
 - **APAC**  stands out despite its smaller size: customers there have the highest average order value ($279), reflecting a premium purchasing pattern despite lower overall order volume.
+
+  
 - Together, these patterns show a business anchored by North America, supported by steady performance in EMEA, and with meaningful upside potential in APAC’s higher‑value customer base.
 
 <!-- Geographic concentration (hero visual) -->
