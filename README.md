@@ -233,6 +233,6 @@ Overall, these results suggest that regional differences are not a primary drive
 
 - View the Entity Relationship Diagram [here](Excel/elist_erd.png)
 
-- Explore the SQL queries used in the analysis [here](SQL/)
+- - Review the data issue log and cleaning notes [here](Excel/data_issue_log.xlsx)
 
-- Review the data issue log and cleaning notes [here](Excel/data_issue_log.xlsx)
+- Explore the SQL queries used in the analysis [here](SQL/)
