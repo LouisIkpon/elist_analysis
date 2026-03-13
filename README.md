@@ -229,55 +229,11 @@ Overall, these results suggest that regional differences are not a primary drive
 - As a result, product- and customer-level strategies can be applied globally without heavy regional customization, allowing teams to focus optimization efforts where they matter most.
 
 
-# appendix
+# Appendix
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fc9eacbb-e022-4b5b-aa57-d57676b233c2" width="900" />
-</p
-
-
-
-
-<p align="center">
-  <img width="493" height="161" alt="image" src="https://github.com/user-attachments/assets/a416caf7-5982-44a9-bf6e-15b9b8142c64" />
-  </p>
-
-<img width="957" height="476" alt="image" src="https://github.com/user-attachments/assets/67443557-b778-4d66-91c8-d8269a56963f" />
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/09f58bb0-7908-4ad3-91f8-e7efe1b3b93b"
-       style="width:360px; height:220px; object-fit:cover;" />
-  <img src="https://github.com/user-attachments/assets/5bf7b66b-79be-4f20-bf8b-20a2d7f08067"
-       style="width:360px; height:220px; object-fit:cover;" />
-</p>
-
-  <img width="718" height="301" alt="image" src="https://github.com/user-attachments/assets/ad843d7b-8abf-41b4-8062-201b1ad0ae92" />
-
-  <img width="718" height="301" alt="image" src="https://github.com/user-attachments/assets/ad843d7b-8abf-41b4-8062-201b1ad0ae92" />
-  
-
-An interactive PowerBI dashboard can be downloaded here.
-
-
-
-Targeted SQL queries regarding various business questions can be found here.
-
-
-
-# Data Structure & ERD (Entity Relationship Diagram)
-
-
-Elist's database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records.
+Elist's database structure (ERD) as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records.
 
 
 <p align="center">
   <img src="PATH_OR_URL_TO_IMAGE" alt="Monthly sales table" width="700">
 </p>
-
-
-
-
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets, the data cleaning change log can be found here.
-
-The SQL queries used for data quality checks, cleaning, organizing, and preparing the data for the dashboard can be found here.
