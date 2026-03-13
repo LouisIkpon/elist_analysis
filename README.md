@@ -123,7 +123,7 @@ The 2022 downturn reflects both the number of orders and the average amount cust
 
 **Seasonality**
 - Sales display clear seasonality, with demand peaking in **Q4**, particularly in **December (10.15% of annual sales)**, reflecting holiday-driven purchasing behavior.
-- **Q1 is consistently softer**, with **February (6.78%)** representing the weakest month on average, suggesting an early-year normalization following the holiday period.
+- **Q1 is consistently softer**, with **February (6.78%)** representing the weakest month on average, reflecting a natural cooldown after the holiday surge.
 
 <!-- Seasonality (supporting visual) -->
 <p>
