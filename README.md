@@ -236,3 +236,9 @@ Elist's database structure (ERD) as seen below consists of four tables: orders, 
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets which can be found here. 
 
 The SQL queries utilized to inspect and perform quality checks can be found here 
+
+• [Entity Relationship Diagram](Excel/erd_diagram.png)
+
+• [SQL Queries](SQL/)
+
+• [Data Issue Log](Excel/data_issue_log.xlsx)
