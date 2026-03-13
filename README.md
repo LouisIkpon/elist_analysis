@@ -53,10 +53,10 @@ To diagnose Elist’s revenue performance, the analysis is structured around fou
 
 # Executive Summary
 
-Elist generated **$28.1M across 108K orders** from 2019–2022, with revenue accelerating sharply in 2020 before reversing course. Monthly revenue peaked at **$1.25M in 2020**, then declined steadily to $0.26M by late 2022, indicating structural demand softening. 
+Elist generated **$28.1M across 108K orders** from 2019–2022. Sales grew quickly through 2020, hitting a high point of $1.25M in a single month, but then steadily declined to $260K per month by late 2022. This drop suggests that overall customer demand weakened over time.
 
 
-The 2022 downturn reflects both volume contraction and pricing pressure, rather than a single operational issue. Stabilizing growth will likely require improving customer retention, diversifying product mix, and protecting AOV.
+The 2022 downturn reflects both the number of orders and the average amount customers spent going down, rather than a single operational issue. Stabilizing growth will likely require improving customer retention, diversifying product mix, and strengthening pricing and value.
 
 <img width="957" height="355" alt="image" src="https://github.com/user-attachments/assets/36bfcd6e-7d0e-46ff-8251-9015843a560b" />
 
