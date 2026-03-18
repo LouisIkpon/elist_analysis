@@ -24,9 +24,6 @@
   - [Regional Comparisons](#regional-comparisons)
 
 - [Recommendations](#recommendations)
-
-- [Data Structure & ERD](#data-structure--erd-entity-relationship-diagram)
-- [SQL & Data Preparation](#sql--data-preparation-recommendations)
 - [Dashboard](#dashboard)
 
 ## Client Background
