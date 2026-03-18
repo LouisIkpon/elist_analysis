@@ -21,8 +21,6 @@ Following rapid growth during the pandemic period, Elist experienced a multi-yea
 <summary>Table of Contents</summary>
 
 ### Overview
-- [Project Overview](#project-overview)
-- [Client Background](#client-background)
 - [Performance Framework](#performance-measurement-framework)
 
 ### Key Findings
