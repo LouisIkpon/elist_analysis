@@ -77,7 +77,7 @@ The 2022 downturn reflects both the number of orders and the average amount cust
 
 ## Deep-Dive Insights
 
-*The following sections diagnose each performance dimension in detail and close with prioritized recommendations.+
+*The following sections diagnose each performance dimension in detail and close with prioritized recommendations.*
 
 
 
@@ -263,7 +263,7 @@ Overall, these results suggest that regional differences are not a primary drive
 
 ## Dashboard
 
-*Note: Static preview shown below.
+*Note: Static preview shown below. To request the full Power BI file, connect via [LinkedIn](https://www.linkedin.com/in/louisikpon/).*
 
 <img width="959" height="535" alt="image" src="https://github.com/user-attachments/assets/ec2cadec-564b-4de4-b47c-fae267768dcd" />
 
