@@ -6,7 +6,7 @@ Founded in 2018, Elist Electronics is an online retailer selling consumer electr
 Following rapid growth during the pandemic period, Elist experienced a multi-year revenue decline. This report evaluates whether that decline reflects temporary normalization or structural performance challenges, and identifies actionable levers for stabilization and growth.
 
 
-<details open>
+<details close>
 <summary> Project Overview</summary>
 
 **Objective:** Analyze Elist Electronics’ performance (2019–2022) to identify key revenue drivers and refund risk.
@@ -16,6 +16,9 @@ Following rapid growth during the pandemic period, Elist experienced a multi-yea
 **Output:** Executive summary, diagnostic deep dives, reproducible SQL querie and a Power BI dashboard.
 
 </details>
+
+<details open>
+<summary>Table of Contents</summary>
 
 ### Overview
 - [Project Overview](#project-overview)
@@ -39,7 +42,6 @@ Following rapid growth during the pandemic period, Elist experienced a multi-yea
 - [Dashboard](#dashboard)
 
 </details>
-
 ## Performance Measurement Framework
 
 To diagnose Elist’s revenue performance, the analysis is structured around four performance pillars designed to isolate structural drivers of growth and decline:
