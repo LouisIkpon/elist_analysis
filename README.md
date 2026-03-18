@@ -9,7 +9,7 @@ Founded in 2018, Elist Electronics is an online retailer selling consumer electr
 
 
 <details close>
-<summary><strong>## Project Overview</strong></summary>
+<summary><strong>📋 Project Overview</strong></summary>
 
 **Objective:** Analyze Elist Electronics’ performance (2019–2022) to identify key revenue drivers and refund risk.
 
