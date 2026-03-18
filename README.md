@@ -1,13 +1,21 @@
 # Elist Ecommerce Performance Report
 
-## Project Overview
-**Goal:** Evaluate Elist Electronics’ historical performance and identify drivers of revenue growth and decline across sales trends, product mix, customer behavior, and geography.
+## Company Background
+Founded in 2018, Elist Electronics is an online retailer selling consumer electronics globally via its website and mobile app. The business relies heavily on digital acquisition channels (email, SEO, affiliate partnerships) and derives a significant portion of revenue from major brands such as Apple, Samsung, and ThinkPad.
 
-**Dataset:** Orders, customers, products, and operational data (2019–2022).                                                                                                                                                                    
+Following rapid growth during the pandemic period, Elist experienced a multi-year revenue decline. This report evaluates whether that decline reflects temporary normalization or structural performance challenges, and identifies actionable levers for stabilization and growth.
 
-**Deliverables:** Executive summary, diagnostic deep dives, reproducible SQL querie and a Power BI dashboard.
 
-## Table of Contents
+<details open>
+<summary> Project Overview</summary>
+
+**Objective:** Analyze Elist Electronics’ performance (2019–2022) to identify key revenue drivers and refund risk.
+
+**Data:** Orders, customers, products, and operational data.
+
+**Output:** Executive summary, diagnostic deep dives, reproducible SQL querie and a Power BI dashboard.
+
+</details>
 
 ### Overview
 - [Project Overview](#project-overview)
@@ -18,7 +26,7 @@
 - [Executive Summary](#executive-summary)
 
 ### Analysis
-- [Deep-Dive Insights](#deep-dive-insights)
+- [Deep Dive Insights](#deep-dive-insights)
   - [Sales Trends](#sales-trends)
   - [Geographic & Seasonality Trends](#geographic--seasonality-trends)
   - [Product Trends](#product-trends)
@@ -30,12 +38,7 @@
 - [Recommendations](#recommendations)
 - [Dashboard](#dashboard)
 
-  
-## Client Background
-Founded in 2018, Elist Electronics is an online retailer selling consumer electronics globally via its website and mobile app. The business relies heavily on digital acquisition channels (email, SEO, affiliate partnerships) and derives a significant portion of revenue from major brands such as Apple, Samsung, and ThinkPad.
-
-Following rapid growth during the pandemic period, Elist experienced a multi-year revenue decline. This report evaluates whether that decline reflects temporary normalization or structural performance challenges, and identifies actionable levers for stabilization and growth.
-
+</details>
 
 ## Performance Measurement Framework
 
