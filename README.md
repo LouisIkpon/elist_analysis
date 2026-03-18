@@ -247,3 +247,10 @@ Overall, these results suggest that regional differences are not a primary drive
 **4. Apply Product and Customer Strategies Consistently Across Regions**
 - Regional analysis shows broadly consistent product demand patterns and delivery performance across markets, suggesting geography is not a primary driver of performance variation.
 - As a result, product- and customer-level strategies can be applied globally without heavy regional customization, allowing teams to focus optimization efforts where they matter most.
+
+## Dashboard
+
+To explore more trends use the interactive Tableau workbook here
+
+<img width="959" height="535" alt="image" src="https://github.com/user-attachments/assets/ec2cadec-564b-4de4-b47c-fae267768dcd" />
+
