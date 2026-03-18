@@ -12,15 +12,22 @@
 - [Project Overview](#project-overview)
 - [Client Background](#client-background)
 - [Performance Measurement Framework](#performance-measurement-framework)
+
 - [Executive Summary](#executive-summary)
+
 - [Deep-Dive Insights](#deep-dive-insights)
   - [Sales Trends](#sales-trends)
-  - [Seasonality & Geographic Trends](#seasonality--geographic-trends)
-  - [Product Performance](#product-performance)
-  - [Loyalty & Retention](#loyalty--retention)
+  - [Geographic & Seasonality Trends](#geographic--seasonality-trends)
+  - [Product Trends](#product-trends)
+  - [Loyalty Program](#loyalty-program)
+  - [Refund Rates](#refund-rates)
+  - [Regional Comparisons](#regional-comparisons)
+
 - [Recommendations](#recommendations)
-- [Data Structure & ERD (Entity Relationship Diagram)](#data-structure--erd-entity-relationship-diagram)
-- [SQL & Data Preparation](#sql--data-preparation)[Recommendations](#recommendations)
+
+- [Data Structure & ERD](#data-structure--erd-entity-relationship-diagram)
+- [SQL & Data Preparation](#sql--data-preparation-recommendations)
+- [Dashboard](#dashboard)
 
 ## Client Background
 Founded in 2018, Elist Electronics is an online retailer selling consumer electronics globally via its website and mobile app. The business relies heavily on digital acquisition channels (email, SEO, affiliate partnerships) and derives a significant portion of revenue from major brands such as Apple, Samsung, and ThinkPad.
@@ -250,7 +257,7 @@ Overall, these results suggest that regional differences are not a primary drive
 
 ## Dashboard
 
-To explore more trends use the interactive Tableau workbook here
+To explore more trends use the interactive PowerBI workbook here
 
 <img width="959" height="535" alt="image" src="https://github.com/user-attachments/assets/ec2cadec-564b-4de4-b47c-fae267768dcd" />
 
