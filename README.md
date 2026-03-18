@@ -7,7 +7,7 @@ Following rapid growth during the pandemic period, Elist experienced a multi-yea
 
 
 <details close>
-<summary> ##Project Overview</summary>
+<summary> Project Overview</summary>
 
 **Objective:** Analyze Elist Electronics’ performance (2019–2022) to identify key revenue drivers and refund risk.
 
@@ -20,13 +20,10 @@ Following rapid growth during the pandemic period, Elist experienced a multi-yea
 <details open>
 <summary>Table of Contents</summary>
 
-### Overview
 - [Performance Framework](#performance-measurement-framework)
 
-### Key Findings
 - [Executive Summary](#executive-summary)
 
-### Analysis
 - [Deep Dive Insights](#deep-dive-insights)
   - [Sales Trends](#sales-trends)
   - [Geographic & Seasonality Trends](#geographic--seasonality-trends)
@@ -35,7 +32,6 @@ Following rapid growth during the pandemic period, Elist experienced a multi-yea
   - [Refund Rates](#refund-rates)
   - [Regional Comparisons](#regional-comparisons)
 
-### Output
 - [Recommendations](#recommendations)
 - [Dashboard](#dashboard)
 
