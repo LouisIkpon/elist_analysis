@@ -265,7 +265,7 @@ Overall, these results suggest that regional differences are not a primary drive
 
 ## Dashboard
 
-o explore more trends, download the interactive Power BI workbook
+*Note: Static preview shown below.
 
 <img width="959" height="535" alt="image" src="https://github.com/user-attachments/assets/ec2cadec-564b-4de4-b47c-fae267768dcd" />
 
