@@ -42,6 +42,7 @@ Following rapid growth during the pandemic period, Elist experienced a multi-yea
 - [Dashboard](#dashboard)
 
 </details>
+
 ## Performance Measurement Framework
 
 To diagnose Elist’s revenue performance, the analysis is structured around four performance pillars designed to isolate structural drivers of growth and decline:
