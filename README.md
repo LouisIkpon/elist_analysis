@@ -15,7 +15,6 @@ Founded in 2018, Elist Electronics is an online retailer selling consumer electr
 
 **Data:** Orders, customers, products, and operational data.
 
-**Tools:** SQL (BigQuery/PostgreSQL), Power BI, Excel
 
 **Output:** Executive summary, diagnostic deep dives, reproducible SQL querie and a Power BI dashboard.
 
