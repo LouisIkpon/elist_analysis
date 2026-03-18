@@ -63,7 +63,7 @@ To diagnose Elist’s revenue performance, the analysis is structured around fou
 
 - Explore the SQL queries used in the analysis [here](SQL/)
 
-# Executive Summary
+## Executive Summary
 
 Elist generated **$28.1M across 108K orders** from 2019–2022. Sales grew quickly through 2020, hitting a high point of $1.25M in a single month, but then steadily declined to $260K per month by late 2022. This drop suggests that overall customer demand weakened over time.
 
@@ -77,8 +77,9 @@ The 2022 downturn reflects both the number of orders and the average amount cust
 
 
 
-# Deep-Dive Insights
+## Deep-Dive Insights
 
+*The following sections diagnose each performance dimension in detail and close with prioritized recommendations.+
 
 
 
@@ -89,7 +90,7 @@ The 2022 downturn reflects both the number of orders and the average amount cust
 
 - **Revenue surged in 2020**, increasing +163% year-over-year. This growth was driven by both a sharp rise in order volume (+101%) and customers spending more per order (AOV +31%).
 
-- **In 2021, revenue growth began to slow**, Even though the number of orders continued to rise slightly, customers were spending less per order (-15%) which slowed overall revenue gains..
+- **In 2021, revenue growth began to slow**, even though the number of orders continued to rise slightly, customers were spending less per order (-15%) which slowed overall revenue gains..
 
 - **The decline accelerated in 2022**, with revenue falling 46% year-over-year. This downturn was driven by both fewer orders and continued pressure on average order value.
 
@@ -146,6 +147,8 @@ The 2022 downturn reflects both the number of orders and the average amount cust
 
 
 ### Product Trends
+
+Revenue performance is driven by a small number of high-impact SKUs, with distinct growth dynamics across premium and mass-market categories.
 
 **Revenue Concentration:**
 
@@ -214,10 +217,10 @@ The 2022 downturn reflects both the number of orders and the average amount cust
 
 - ThinkPad and MacBook Air both see refund rates around **11–12%**, signaling more friction or dissatisfaction in higher‑ticket categories. Even though the number of refunds is smaller than mass‑market items, the rate itself is elevated.
 
-- Apple AirPods Headphones generate the largest refund volume With more than 2,600 refunds, but their refund rate is relatively low (~5.45%), meaning operational improvements at scale could still materially reduce total refunds despite lower per-order risk.
+- Apple AirPods Headphones generate the largest refund volume with more than 2,600 refunds, but their refund rate is relatively low (~5.45%), meaning operational improvements at scale could still materially reduce total refunds despite lower per-order risk.
 
 - Refund rates peaked in 2020 at roughly 9%, improved significantly in 2021, and appear as 0% in 2022 due to a data‑tracking limitation rather than an actual elimination of refunds.
-In short: pr
+In short: premium products carry the highest refund rates, while high-volume products drive the largest total refund count — both require targeted but distinct interventions.
 
 <!-- Refund volume & mix -->
 <p>
@@ -262,7 +265,7 @@ Overall, these results suggest that regional differences are not a primary drive
 
 ## Dashboard
 
-To explore more trends use the interactive Power BI workbook here
+o explore more trends, download the interactive Power BI workbook
 
 <img width="959" height="535" alt="image" src="https://github.com/user-attachments/assets/ec2cadec-564b-4de4-b47c-fae267768dcd" />
 
