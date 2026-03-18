@@ -1,7 +1,5 @@
 # Elist Ecommerce Performance Report
 
-# Elist Ecommerce Performance Report
-
 > Analyzing 4 years of ecommerce transaction data to diagnose a post-pandemic revenue decline and surface actionable growth levers — using SQL, Power BI, and Excel.
 
 ## Company Background
